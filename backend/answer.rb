@@ -12,4 +12,4 @@ end.last
 
 result = most_viewed["views_count"] * most_viewed["likes_count"] * most_viewed["dislikes_count"] * most_viewed["topic_ids"].count
 
-puts result.to_s + "@octoly.com"
+puts result
